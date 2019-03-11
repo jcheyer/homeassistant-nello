@@ -1,0 +1,16 @@
+{
+    "Nello component": {
+      "version": "0.1",
+      "local_location": "custom_components/nello/__init__.py",
+      "remote_location": "https://raw.githubusercontent.com/jcheyer/homeassistant-nello/master/nello/__init__.py",
+      "visit_repo": "https://github.com/jcheyer/homeassistant-nello",
+      "changelog": "https://github.com/jcheyer/homeassistant-nello/releases/latest"
+    },
+    "Enigma Lock": {
+      "version": "0.1",
+      "local_location": "custom_components/nello/lock.py",
+      "remote_location": "https://raw.githubusercontent.com/jcheyer/homeassistant-nello/master/nello/lock.py",
+      "visit_repo": "https://github.com/jcheyer/homeassistant-nello",
+      "changelog": "https://github.com/jcheyer/homeassistant-nello/releases/latest"
+   }
+}
