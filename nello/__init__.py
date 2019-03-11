@@ -1,5 +1,0 @@
-"""
-Support for Nello Lock.
-
-"""
-
