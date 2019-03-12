@@ -1,4 +1,11 @@
 {
+    "MyNello Component": {
+      "version": "0.1",
+      "local_location": "/custom_components/mynello/__init__.py",
+      "remote_location": "https://raw.githubusercontent.com/jcheyer/homeassistant-nello/master/mynello/__init__.py",
+      "visit_repo": "https://github.com/jcheyer/homeassistant-nello",
+      "changelog": "https://github.com/jcheyer/homeassistant-nello/releases/latest"
+    },
     "MyNello Lock": {
       "version": "0.1",
       "local_location": "/custom_components/mynello/lock.py",
